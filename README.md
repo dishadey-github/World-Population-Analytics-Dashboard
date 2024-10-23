@@ -1,4 +1,7 @@
 # World-Population-Analytics-Dashboard
+
+![World Population Analytics Dashbaord](https://github.com/user-attachments/assets/a48dff1e-908d-4680-800c-76f384357557)
+
 ### Overview
 The World Population Dashboard (1980-2020 Population Measurement) provides an interactive, data-driven visualization of global population trends from 1980 to 2020, including live, real-time updates for all countries across the world. The dashboard focuses on significant global population shifts in large countries like China, India, the United States, Indonesia, and Brazil, while also featuring dynamic updates for smaller nations. Users can compare population data over time and gain insights into demographic changes on both a large and small scale.
 
@@ -61,6 +64,18 @@ Cambodia: 455,000.
 Cameroon: 685,000.
 Canada: 1.29 million.
 This feature ensures that smaller nations are continuously updated with live data feeds, allowing users to track changes in global demographics in real-time.
+
+
+## Population Analytics of India, China, and Brazil from 1980 to 2020
+![World Population Analytics Dashbaord India China Brazil](https://github.com/user-attachments/assets/f9684db7-044c-4217-8872-616fee75b9db)
+
+## Population Analytics of India and China from 1980 to 2020
+![World Population Analytics Dashbaord India China](https://github.com/user-attachments/assets/61149c58-8bea-495c-ae2c-c02842d43706)
+
+## Population Analytics of India from 1980 to 2020
+![World Population Analytics Dashbaord India](https://github.com/user-attachments/assets/bda72dda-8fd2-4537-b2a1-5c148bcbe159)
+
+
 
 ### Conclusion
 The World Population Dashboard (1980-2020) provides an excellent platform for analyzing population dynamics over 40 years, offering both historical and real-time data for all countries. The use of various charts, maps, and data visualizations allows for a comprehensive understanding of global population trends.
